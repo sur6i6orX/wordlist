@@ -1,6 +1,6 @@
 ############# D4n IS NOOB TO CRACKING ##############
 
-Se filtraron lo siguiente en el que se aplicaron varios criterios de eliminación:
+Se filtraron los siguiente en el que se aplicaron varios criterios de eliminación:
 
 • Se eliminó las líneas con carateres <=7
 
