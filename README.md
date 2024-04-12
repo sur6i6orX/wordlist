@@ -1,4 +1,4 @@
-############# D4n IS NOOB TO CRACKING ##############
+################## D4n IS NOOB TO CRACKING ###############
 
 Se filtraron los siguiente en el que se aplicaron varios criterios de eliminación:
 
