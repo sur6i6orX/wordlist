@@ -15,4 +15,4 @@ Se filtraron los siguiente en el que se aplicaron varios criterios de eliminaci√
 Estos pasos se realizaron como parte de un proceso de limpieza y filtrado de datos, para eliminar informaci√≥n no deseada y ruido antes de su uso posterior.
 
 
-USALO CON RESPONSABILIDAD Y PARA USOS EDUCATIVOS.
+USALO CON RESPONSABILIDAD Y PARA USO EDUCATIVO.
